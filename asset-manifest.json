@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/empolisity/static/css/main.9a81a79e.css",
+    "main.js": "/empolisity/static/js/main.0cf8c4c8.js",
+    "static/media/Bg_Intro.png": "/empolisity/static/media/Bg_Intro.ea4d3dd8257b4b9b9bd3.png",
+    "static/media/BG__order.png": "/empolisity/static/media/BG__order.06e0711ad33f3ad71bb3.png",
+    "static/media/qiwi.svg": "/empolisity/static/media/qiwi.89a8d1a80c6f1fae15b325fa6f1a3860.svg",
+    "static/media/subtract-remove.svg": "/empolisity/static/media/subtract-remove.94a0998c8202f511510deb63434f7f08.svg",
+    "static/media/vk.svg": "/empolisity/static/media/vk.eb100f35e94703330cbf137f920ab2bc.svg",
+    "static/media/web.svg": "/empolisity/static/media/web.a973fdd0b04581fca490bc58817b0cc9.svg",
+    "static/media/subtract.svg": "/empolisity/static/media/subtract.550d16797fc2856fa95382af3bfa5201.svg",
+    "static/media/percent.svg": "/empolisity/static/media/percent.11d11953c72573cf54c171ea5349cb3e.svg",
+    "static/media/message.svg": "/empolisity/static/media/message.926cc782ee814fbd1d619f528dc29eef.svg",
+    "static/media/mail.svg": "/empolisity/static/media/mail.c8a1fc9237a4f27ab748bdd3d982a596.svg",
+    "static/media/baks.svg": "/empolisity/static/media/baks.e982cc69c91289f5afcad6d164b1368d.svg",
+    "static/media/yandex.svg": "/empolisity/static/media/yandex.dfbd7b3e1aef49365f3314a952a027b8.svg",
+    "static/media/search.svg": "/empolisity/static/media/search.917f81bde8036abe698b24fc7a98a73e.svg",
+    "static/media/shevron.svg": "/empolisity/static/media/shevron.50d3628104fe26969ad8bb282e0a6635.svg",
+    "index.html": "/empolisity/index.html",
+    "static/media/dots2.svg": "/empolisity/static/media/dots2.26afb7523cc077a0a889.svg",
+    "main.9a81a79e.css.map": "/empolisity/static/css/main.9a81a79e.css.map",
+    "main.0cf8c4c8.js.map": "/empolisity/static/js/main.0cf8c4c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a81a79e.css",
+    "static/js/main.0cf8c4c8.js"
+  ]
+}
